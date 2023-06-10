@@ -4,7 +4,7 @@
 <h6 align="center"><i>Let not be strangers any more? 👉<a href= "https://www.linkedin.com/in/sugam-goel-india/">Connect</a></i></h6> 
 <hr>
 
-<h3> <u>Day 1: 704. Binary Search </u></h3>
+<h3> <u>Ques 1: 704. Binary Search </u></h3>
 <p>Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.
 
 You must write an algorithm with O(log n) runtime complexity.</p>
